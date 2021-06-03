@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several reasons rendred by the people of God, (called Quakers) why no outward force, or imposition, on the conscience ought to be used in matters of faith and religion with several sayings, collected from the speeches and writings of King James, and King Charles the First.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59391</idno><idno type="EEBO-CITATION">12271078</idno>
+  <idno type="VID">58244</idno>
+  <idno type="EEBO-PROQUEST">2248558742</idno>
+  
+            <idno type="STC">Wing S2808</idno>
+            <idno type="STC">ESTC R5843</idno>
+            <idno type="OCLC">12271078</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58244)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 877:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several reasons rendred by the people of God, (called Quakers) why no outward force, or imposition, on the conscience ought to be used in matters of faith and religion with several sayings, collected from the speeches and writings of King James, and King Charles the First.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends.</term>
+               <term type="topical_term">Freedom of religion --  Great Britain.</term>
+               <term type="topical_term">Persecution --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58244:1"/>
+            <pb facs="tcp:58244:1"/>
+            <p>SEVERAL REASONS RENDRED By the People of God, (called Quakers) Why no Outward <hi>Force,</hi> or <hi>Imposition,</hi> On the CONSCIENCE Ought to be used in Matters of FAITH and RELIGION: With several SAYINGS, Collected from the Speeches and Writings of KING <hi>JAMES,</hi> and KING <hi>CHARLES</hi> the First.</p>
+            <q>
+               <bibl>Acts 5. 38, 39.</bibl> Now I say unto you, Refrain from these men, and let them alone: for if this Counsel, or this Work be of men, it will come to nought: but if it be of God, you cannot overthrow it; lest haply ye be found Fighters against God.</q>
+            <p>Printed in the Year, 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:58244:2"/>
+            <pb n="1" facs="tcp:58244:2"/>
+            <head>Reasons for Liberty.</head>
+            <p>LIBERTY of CONSCIENCE ought to be allowed in the dayes of the <hi>Gospel</hi> in the free Exercise of it to God<g ref="char:EOLhyphen"/>ward (without Compulsion) in all things relating to his Wor<g ref="char:EOLhyphen"/>ship for these Reasons following.</p>
+            <p n="1">1. BEcause the General and Universal Royal Law of Christ Commands it, <q>
+                  <hi>Matth. 7. 12. All things whatsoever ye would that men should do to you, do ye even so unto them: for this is the Law and Prophets.</hi>
+               </q> That which every man would have and receive from another, he ought by Christ's Rule to give and allow it to another. But every man is willing to have the Liberty of his own Conscience, therefore ought to allow it to another.</p>
+            <p n="2">2. Because, No man can perswade the Conscience of another, either what God is, or how he should be worshipped, but by the Spirit, which God hath given to instruct man in the Wayes of Truth.</p>
+            <p n="3">3. Because, all Obedience or Service that is obtained by Force, is for fear of Wrath, and not from Love, not for Con<g ref="char:EOLhyphen"/>science sake; and therefore will but continue so long as that fear or force abides upon them.</p>
+            <p n="4">4. Because, That by forcing, no man can make a Hypocrite to be a True Believer; but on the contrary, many may be made Hypocrites.</p>
+            <p n="5">5. Because, that in all forced Impositions upon mens Consci<g ref="char:EOLhyphen"/>ences there is something of the Wrath of man exercised, which works not the <hi>Righteousness of God,</hi> but rather begets <hi>Enmity</hi> in the heart one towards another.</p>
+            <p n="6">6. Because, that by forcing any thing upon mens Consciences, as to matters of Faith and Worship, many are hardened in their
+<pb n="4" facs="tcp:58244:3"/> hearts against the things imposed; when as otherwise, th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough Love and gentle Instructions the<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r hearts might be perswaded to willing Obedience.</p>
+            <p n="7">7. Because, that Persecution for Conscience contradicteth Christ's Charge, <hi>Matth.</hi> 13. who bids, that <hi>the Tares</hi> (or <hi>false Worshippers</hi>) be <hi>suffered to grow together in the Field</hi> (or World) <hi>till the Harvest</hi> (or End of the World.)</p>
+            <p n="8">8. Because Force is contrary to the End for which it is pre<g ref="char:EOLhyphen"/>tended to be used (<hi>viz.) the preservation and safety of the Wheat,</hi> which End is not answered by Persecution, because the Wheat is in danger to be plucked up thereby, as Christ saith.</p>
+            <p n="9">9. Because, to Force, is inconsistant with the Belief of the Jews Conversion (and other false Worshippers) which is prayed for by the Publick Teachers, and cannot be attained, if Persecu<g ref="char:EOLhyphen"/>tion for Conscience be prosecuted</p>
+            <p n="10">10. Because, they that impose upon mens Consciences, exer<g ref="char:EOLhyphen"/>cise Dominion over mens Faith, which the Apostle <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enied, say<g ref="char:EOLhyphen"/>ing, <hi>They had not Dominion over any mans Faith.</hi>
+            </p>
+            <p n="11">11. Because, Imposition upon mens Consciences necessitates them to sin, in yeelding a Conformity contrary to their own faith: <hi>For whatsoever is not of a mans own faith, is sin.</hi>
+            </p>
+            <p n="12">12. Because, that Imposition and Force wrestles with Flesh and Blood, and Carnal weapons, which is contrary to the Apo<g ref="char:EOLhyphen"/>stles Doctrine, who said, <hi>Our Weapons are not Carnal, but <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pi<g ref="char:EOLhyphen"/>ritual, and mighty through God:</hi> and <hi>we wrestle not with Flesh and Blood.</hi>
+            </p>
+            <p n="13">13. Because, there is but <hi>one Judg, Law-giver</hi> and <hi>King</hi> in and over the Conscience, as the Saints have testified in the Scrip<g ref="char:EOLhyphen"/>tures of Truth: and whosoever would intrude, so as to be Judge and Law-giver over the Conscience, intrencheth upon the Pre<g ref="char:EOLhyphen"/>rogative of Christ Isa. 33. 22. <hi>Jam.</hi> 4. 12.</p>
+            <p n="14">14. Because, it is prophesied in <hi>Isa. 11: The W<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf shall dwell with the Lamb, and the Leopard shall lie down with the Kid, and there shall be no Destroyer in all the Holy Mountain;</hi> and therefore no Imposition upon mens Consciences.</p>
+            <p n="15">15. Because to Impose upon mens Consciences for Differences in Faith, is contrary to the Advice of the Apostle, who directs People to wait upon God to be satisfied, and not to the Ma<g ref="char:EOLhyphen"/>gistrate
+<pb n="5" facs="tcp:58244:3"/> or o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers, to be forced; who saith, <hi>Whereunto we have attained, let us walk;</hi> and <hi>wherein any man is otherwise-minded, God shall reveal, even that unto him.</hi>
+            </p>
+            <p n="16">16. Because, to Force mens Consciences, and to lay Yokes up<g ref="char:EOLhyphen"/>on them, is to make void the Blood-shed and Sufferings of Christ, who sits upon the Throne of the Conscience, and gives Liber<g ref="char:EOLhyphen"/>ty there; and commands us to <hi>stand fast in that Liberty,</hi> and <hi>not to be entangled through the Impositions of men,</hi> or <hi>Y<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke of Bondage,</hi> Gal. 5. 6.</p>
+            <p n="17">17. Because, in all Nations the different Professions and Per<g ref="char:EOLhyphen"/>swasions of Religion, are either Friends or Enemies to the Gover<g ref="char:EOLhyphen"/>nors: If Friends, then obliged by that Bond: If Enemies, then Christ's Command is to take place, who saith, <hi>Love your Ene<g ref="char:EOLhyphen"/>mies;</hi> which, if observed, Persecution for Conscience will be avoided.</p>
+            <p n="18">18. Because, Toleration of different Perswasions in Religion was allowed in the Jewish State, as not Inconsistent with their Safety, and that in things contrary each to other, as the <hi>Sadduces, Pharisces, Essaeans, Herodians,</hi> with others.</p>
+            <p n="19">19. Because, the True Religion cannot be Preached up by Force of Arms, and the Primitive Christians detested that Form of Proceedings.</p>
+            <p n="20">20. Because, no man hath such Power over the Souls and Consciences of other men, as to lay a Necessity on them to Be<g ref="char:EOLhyphen"/>lieve that which they do not Believe, or not to Believe what they do Believe; True Faith being the Gift of God.</p>
+            <p n="21">21. Because, if the Magistrate Imposeth upon the Conscience, he must either do it as a Magistrate, or as a Christian: Not as a Magistrate, for then Heathens (being Magistrates) have the same Power to Impose; and so by Revolutions and Conquests, may come to give Laws to Christians, and Compel them to Idolatry. 2. Not as Christians, for that Contradicts Christ's saying, <hi>The Kings of the Gentiles exercise Lordship <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver them; but it shall not be so among you, for all ye are Brethren.</hi>
+            </p>
+            <p n="22">22. Because, by the same Rule and Reason that the Magistrate of one Nation ought to Impose upon, and Persecute for Consci<g ref="char:EOLhyphen"/>ence, the Magistrates in all other Nations ought to do the same, and so the greatest part of Mankind may come to be destroyed,
+<pb n="6" facs="tcp:58244:4"/> there being more that Dissent, than are at Unity in Matters of Faith and Religion.</p>
+            <p n="23">23. Because the Strength of Truth, and its Conquest over Falsity and Deceit, is best Discovered by letting both have their Liberty, from outward Compulsion; for no doubt had out<g ref="char:EOLhyphen"/>ward Force been less used, the prevalency of Truth had been more manifest, and that wise saying truly experienced in the World, Viz. <hi>That which is of God will stand, and that which is not will come to nothing.</hi>
+            </p>
+            <p n="24">24. Because, the Disciples of Christ are rebuked by him for desiring the Destruction of those that were contrary to him, and would not receive him: which Zeal is sharply reproved in his saying, <hi>They knew not what Spirit they were of.</hi>
+            </p>
+            <p n="25">25. Because, to Impose upon mens Consciences, and to De<g ref="char:EOLhyphen"/>stroy their Persons for Difference in Religion, is contrary to the End of Christs Coming, who saith, <hi>He came not to Destroy mens Lives, but to Save them.</hi>
+            </p>
+            <p n="26">26. Because, People of divers Religions in one Nation, if not Tolerated, must some of them be Destroyed, or removed by Banishment. If Destroyed, the <hi>Constancy</hi> and <hi>Patience</hi> of the Sufferers for their Faith, moving <hi>Pitty</hi> and <hi>Commiseration,</hi> makes men more ready to own, then to reject their Faith, and so ra<g ref="char:EOLhyphen"/>ther Multiplies, then lessens, the Number of its Professors. If Banish'd, this renders the Banished as so many Enemies abroad, ready upon all Occasions to Disturb the Peace and Tranquility of their own Native Country. There is therefore, in order to the outward Welfare of all Nations, a kind of Necessity for a <hi>Tole<g ref="char:EOLhyphen"/>ration</hi> in them of all <hi>Religions.</hi>
+            </p>
+            <p n="27">27. Because, to Impose upon mens Consciences begets a Ha<g ref="char:EOLhyphen"/>tred against the Imposers in those who are Imposed upon, and Forc'd thereby to Violate their Consciences towards God in matters of Worship.</p>
+            <p n="28">28. Because, men are Commanded to be Subject to the Powers that are, for Conscience sake, and therefore such Powers ought not to persecute men for Conscience sake, being that is prescribed for the Rule of Obedience; the Scripture saying, <hi>Be ye subject not only for Wrath, but for Conscience sake.</hi>
+            </p>
+            <p n="29">29. We find it Asserted by King <hi>James</hi> in his Speech to the
+<pb n="7" facs="tcp:58244:4"/> Parliament in the Year 1609. who said, <hi>That it is a pure rule in Divinity, That God never loves to Plant his Church with</hi> Violence <hi>and</hi> Blood; and furthermore said, <hi>It was usually the condition of Christians to be</hi> Persecuted, <hi>but not to</hi> Persecute.</p>
+            <p n="30">30. And we find the same things, in substance, asserted again by his Son <hi>Charles the first,</hi> in his Book known by the Name of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Printed for <hi>R. Royston,</hi> as followeth.</p>
+            <list>
+               <item>
+                  <q>
+                     <p>
+                        <hi>Pag.</hi> 67. In his Prayer to God, he said, <hi>Thou seest how much</hi> Cruelty <hi>amongst Christians is acted under the colour of Religion; as if we could not be Christians, unless we Crucifie one another.</hi>
+                     </p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <p>Pag. 28. <hi>Make them at length seriously to consider, that nothing</hi> Violent <hi>and</hi> Injurious <hi>can be Religious.</hi>
+                     </p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <p>Pag. 70. <hi>Nor is it so proper to hew out Religious Reformations by the</hi> Sword, <hi>as to pollish them by</hi> fair <hi>and</hi> equal Disputations, <hi>among those that are most concerned in the Differences, whom, not Force, but Reason ought to convince.</hi>
+                     </p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <p>
+                        <hi>Sure in matters of Religion, those Truth gain most upon mens Judgments and Consciences, which are</hi> least urged with Secular Violence, <hi>which weakens Truth with Prejudices.</hi>
+                     </p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <p>Pag. 115. <hi>It being an Office not only of Humanity, rather to use</hi> Reason <hi>than</hi> Force, <hi>but also of Christianity to seek</hi> Peace <hi>and</hi> ensue <hi>it.</hi>
+                     </p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <p>Pag. 91, 92. <hi>In point of true Conscientious</hi> Tenderness, <hi>I have often Declared, how little I desire my Laws and Scepter, should in<g ref="char:EOLhyphen"/>trench</hi> on God's Soveraignty, <hi>which is the</hi> only King of mens Consciences.</p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <p>Pag. 123. <hi>Nor do I desire that any man should be farther subject un<g ref="char:EOLhyphen"/>to me, then all of us may be subject unto God.</hi>
+                     </p>
+                  </q>
+               </item>
+            </list>
+            <list>
+               <head>Concerning Oathes.</head>
+               <item>
+                  <q>
+                     <p>Pag. 76. <hi>The Injoyning of Oathes, upon People, must needs in things doubtfull</hi> be Dangerous, as in things unlawfull Damnable.</p>
+                  </q>
+               </item>
+            </list>
+            <list>
+               <head>Some words of Advice from <hi>CHARLES</hi> the First, to the then Prince of <hi>Wales,</hi> now King of <hi>England,</hi> &amp;c.</head>
+               <item>
+                  <q>
+                     <p>Pag. 165. <hi>My Counsel and Charge to you is, That you seriously
+<pb n="8" facs="tcp:58244:5"/> consider the former Real or Objected Miscariages, which might oc<g ref="char:EOLhyphen"/>casion my Troubles, that you may avoid them,</hi> &amp;c.</p>
+                     <p>
+                        <hi>Beware of</hi> Exasperating <hi>any Factions, by the</hi> Crosness <hi>and</hi> Aspe<g ref="char:EOLhyphen"/>rity <hi>of some mens</hi> Passions, Humors, <hi>and</hi> private Opinions, <hi>Im<g ref="char:EOLhyphen"/>ployed by you, grounded only upon difference, in lesser matters, which are but the Skirts and Suburbs of Religion, wherein a Charitable</hi> Connivance, <hi>and Christian</hi> Toleration, <hi>often Dissipates their strength, when rougher Opposition Fortifies, and puts the despised and oppressed party into such Combinations, as may most enable them to get a full Revenge on those they count their Persecutors.</hi>
+                     </p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <p>Pag. 166. <hi>Take heed that outward Circumstances and Formalities of Religion Devour not all.</hi>
+                     </p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <p>Pag. 164. <hi>Your Prerogative is best shewed and exercised in</hi> Re<g ref="char:EOLhyphen"/>mitting, <hi>rather than</hi> Exacting <hi>the Rigor of the Laws, there being nothing worse than</hi> Legal Tyranny.</p>
+                  </q>
+               </item>
+            </list>
+            <epigraph>
+               <q>
+                  <bibl>Acts 5. 33, 34, 35, &amp;c.</bibl>Gamaliel said unto them, Ye men of Israel, take heed unto your selves, what ye intend to do as touching these men, &amp;c.</q>
+               <q>
+                  <bibl>Acts 18. 12, 13, 14, 15, 16.</bibl>
+                  <hi>Gallio</hi> said, If it were a matter of wrong, or wicked lewdness, Reason would that I should bear with you: But if it be a question of words and names, and of your Laws, look ye to it: for I will be no Judge of such matters.</q>
+            </epigraph>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
